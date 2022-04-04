@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>setup react</h1>
+     <h1 className="text-lg p-10 text-red-300">sakib</h1>
     </div>
   );
 }
