@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Car Review Website](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Car Review Website](https://cozy-sunflower-b225d4.netlify.app/).
 
 * install react app
 * Install react router dom and other liberary like, Google font, taliwind, rechart etc
