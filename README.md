@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Car Review Website](https://github.com/facebook/create-react-app).
 
-* Item 1
-* Item 2
-* Item 3
+* install react app
+* Install react router dom and other liberary like, Google font, taliwind, rechart etc
+* Create Five page
+* Every page has router setting
+* Finally deploy netlify
 
 ## Available Scripts
 
