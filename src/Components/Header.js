@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Header = () => {
   return (
     <>
-      <nav className="px-2 bg-white border-gray-200 dark:bg-gray-800 dark:border-gray-700">
+      <nav className="px-10 py-5 bg-white border-gray-200 dark:bg-gray-800 dark:border-gray-700">
         <div className="container flex flex-wrap justify-between items-center mx-auto">
           <Link to="/" className="flex items-center">
             <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
@@ -58,34 +58,34 @@ const Header = () => {
 
               <li>
                 <Link
-                  to="/services"
+                  to="/review"
                   className="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 dark:hover:text-white dark:border-gray-700 dark:hover:bg-gray-700 md:dark:hover:bg-transparent"
                 >
-                 REVIEW
+                  REVIEW
                 </Link>
               </li>
               <li>
                 <Link
-                  to="#"
+                  to="/dashboard"
                   className="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 dark:hover:text-white dark:border-gray-700 dark:hover:bg-gray-700 md:dark:hover:bg-transparent"
                 >
-                 DASHBOARD
+                  DASHBOARD
                 </Link>
               </li>
               <li>
                 <Link
-                  to="/"
+                  to="/blogs"
                   className="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 dark:hover:text-white dark:border-gray-700 dark:hover:bg-gray-700 md:dark:hover:bg-transparent"
                 >
-                 BLOGS
+                  BLOGS
                 </Link>
               </li>
               <li>
                 <Link
-                  to="/"
+                  to="/about"
                   className="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 dark:hover:text-white dark:border-gray-700 dark:hover:bg-gray-700 md:dark:hover:bg-transparent"
                 >
-                 ABOUT
+                  ABOUT
                 </Link>
               </li>
             </ul>
