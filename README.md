@@ -3,8 +3,7 @@
 This project was bootstrapped with [Car Review Website](https://github.com/facebook/create-react-app).
 
  Markup : * First install react app
-          * install routing and other library
-
+        
 
 ## Available Scripts
 
