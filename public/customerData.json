@@ -6,7 +6,8 @@
       "email": "nicholechristensen@snowpoke.com",
       "phone": "+1 (898) 488-3283",
       "address": "833 Hegeman Avenue, Brownsville, Alaska, 5856",
-      "about": "Sunt pariatur sint enim ea laboris Lorem ad do anim esse in consequat nisi in. Id minim duis minim aliqua exercitation sit anim ea quis ad. Duis qui dolor fugiat aute reprehenderit aliquip sunt dolor duis excepteur pariatur. Enim ad consectetur quis ipsum aliqua culpa dolore nisi laboris cupidatat est eu ullamco labore.\r\n"
+      "rating":"4/5",
+      "about": "this is nice car"
     },
     {
       "id": "624c4637fd0fcda2869ed3b7",
@@ -15,7 +16,8 @@
       "email": "marciebaxter@snowpoke.com",
       "phone": "+1 (926) 588-2983",
       "address": "339 Tehama Street, Tyro, Tennessee, 7707",
-      "about": "Nostrud laborum enim culpa fugiat qui ullamco amet consequat dolor veniam adipisicing fugiat labore. Aliqua irure in nostrud incididunt occaecat. Ad velit laboris laboris reprehenderit laborum commodo mollit quis cillum incididunt qui sint excepteur. Voluptate reprehenderit incididunt tempor et ad. Nulla esse sit ullamco aute nostrud laborum officia anim id officia adipisicing. Labore enim id nulla cupidatat id ea nisi nostrud eu do ex elit ad.\r\n"
+      "rating":"4/5",
+      "about": "Nice car and very low price"
     },
     {
       "id": "624c46374eff7c11bae2d098",
@@ -24,7 +26,8 @@
       "email": "suzetterasmussen@snowpoke.com",
       "phone": "+1 (952) 408-3684",
       "address": "871 Clymer Street, Henrietta, North Carolina, 677",
-      "about": "Labore adipisicing deserunt excepteur ipsum. Do tempor voluptate nulla in incididunt labore. Enim non aliqua laborum Lorem qui ea eiusmod fugiat eu laborum mollit. Non duis reprehenderit aute sit. Eiusmod anim adipisicing cupidatat cillum. Ea non cillum labore fugiat deserunt quis commodo dolor eu.\r\n"
+      "rating":"3/5",
+      "about": "Awasome car"
     },
     {
       "id": "624c4637d9323f3f7fd7a06c",
@@ -33,7 +36,8 @@
       "email": "roxannecote@snowpoke.com",
       "phone": "+1 (955) 415-2343",
       "address": "786 Campus Place, Gordon, Missouri, 5661",
-      "about": "Magna cillum culpa consectetur voluptate eu quis eu nostrud proident sit excepteur sint. Eu ipsum pariatur exercitation commodo do consequat quis ipsum proident ut adipisicing aliquip aliquip labore. Reprehenderit in tempor ut nisi ex eiusmod aute.\r\n"
+      "rating":"5/5",
+      "about": "Very nice product"
     },
     {
       "id": "624c4637aaa8d5574632235c",
@@ -42,7 +46,8 @@
       "email": "rondafulton@snowpoke.com",
       "phone": "+1 (995) 531-3189",
       "address": "989 Noel Avenue, Jenkinsville, New York, 9927",
-      "about": "Aliqua aliqua ullamco aliquip dolore elit nisi adipisicing. Est nostrud aute incididunt officia excepteur ut cillum dolore mollit. Elit eiusmod reprehenderit veniam minim nostrud magna.\r\n"
+      "rating":"4/5",
+      "about": "Very nice product"
     },
     {
       "id": "624c463729b987e2866d3f23",
@@ -51,7 +56,8 @@
       "email": "bessieholder@snowpoke.com",
       "phone": "+1 (881) 537-3149",
       "address": "754 Shale Street, Genoa, District Of Columbia, 7874",
-      "about": "Nostrud ad aliquip veniam irure non fugiat. Id aliqua excepteur magna cupidatat exercitation tempor tempor est irure cupidatat elit. Sunt ea minim aute et dolor est laborum sint excepteur incididunt. Voluptate mollit consectetur pariatur est ad sit et sint ea. Commodo nulla excepteur deserunt aliqua aliquip minim aliquip exercitation ex cupidatat nisi.\r\n"
+      "rating":"5/5",
+      "about": "Very nice product"
     },
     {
       "id": "624c463770c51e03be5af979",
@@ -60,6 +66,7 @@
       "email": "deckerbartlett@snowpoke.com",
       "phone": "+1 (808) 496-2812",
       "address": "741 Plaza Street, Marne, Marshall Islands, 3193",
-      "about": "Occaecat proident dolore ex qui Lorem aute amet nisi qui voluptate dolore. Proident sunt minim irure nostrud excepteur. Esse deserunt ullamco in exercitation Lorem deserunt enim ullamco tempor. Ad ipsum dolore culpa enim exercitation. Aute elit sit tempor laborum veniam. Aliquip occaecat eu cillum excepteur veniam et et labore.\r\n"
+      "rating":"3/5",
+      "about": "Very nice product\r\n"
     }
   ]

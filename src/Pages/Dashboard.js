@@ -24,7 +24,7 @@ const Dashboard = () => {
       .then((data) => setData(data));
   }, []);
   return (
-    <div className="grid grid-cols-2 gap-10 px-10 pt-10">
+    <div className="my_graph grid grid-cols-2 gap-10 px-10 pt-10">
       <div className="area-chat">
         <AreaChart
           width={500}

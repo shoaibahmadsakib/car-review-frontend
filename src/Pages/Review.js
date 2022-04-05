@@ -8,7 +8,7 @@ const Review = () => {
   return (
     <div>
       <h1>Customer Review</h1>
-      <div className="grid grid-cols-3 gap-6">
+      <div className="grid grid-cols-3 gap-6 review_mystyle">
         {review.map((review) => {
           return (
             <div
@@ -23,12 +23,11 @@ const Review = () => {
                 width="100%"
               />
               <p>{review.phone}</p>
-              <p>
-                <small>{review.address}</small>
-              </p>
+              <p>{review.about}</p>
               <p>
                 <small>{review.email}</small>
               </p>
+              <p>Rating: {review.rating}</p>
             </div>
           );
         })}

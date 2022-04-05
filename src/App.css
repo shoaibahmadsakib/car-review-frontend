@@ -12,3 +12,31 @@ body{
 .image-height{
   height: 230px;
 }
+
+@media only screen and (max-width: 600px) {
+ .title{
+
+ }
+ .mx-20{
+   margin: 0;
+ }
+ .twoSection {
+  flex-direction: column;
+
+ }
+ .review_mystyle{
+   display: flex;
+   flex-direction: column;
+ }
+ .App{
+   padding: 20px;
+ }
+ .firstSection{
+   width: auto;
+ }
+ .my_graph{
+  display: flex;
+  flex-direction: column;
+
+ }
+}
