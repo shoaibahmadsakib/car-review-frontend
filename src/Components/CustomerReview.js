@@ -1,14 +1,10 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
+import useReview from "../Hooks/useReview";
 
 const CustomerReview = () => {
-  const [review, setReview] = useState([]);
-  useEffect(() => {
-    const url = "customerData.json";
-    fetch(url)
-      .then((res) => res.json())
-      .then((data) => setReview(data));
-  }, []);
+    const [review,setReview] = useReview([])
+
   return (
     <div className="py-10">
       <h1 className="text-3xl font-bold pb-10">Customer Review</h1>
